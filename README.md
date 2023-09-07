@@ -29,7 +29,7 @@ Users should be able to:
 
 - Solution URL: [HTML Solution](https://github.com/Tori-Bemide/Frontend-mentor-order-summary-component/blob/main/index.html)
 - Solution URL: [CSS Solution](https://github.com/Tori-Bemide/Frontend-mentor-order-summary-component/blob/main/css/styles.css)
-- Live Site URL: [Live Site] (https://tori-bemide.github.io/Frontend-mentor-order-summary-component/)
+- Live Site URL: [Live Site](https://tori-bemide.github.io/Frontend-mentor-order-summary-component/)
 
 ## My process
 
